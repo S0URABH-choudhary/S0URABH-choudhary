@@ -1,9 +1,9 @@
 <img height="300" object-fit="cover" width="100%" alt="img" src="https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=1736985600&v=beta&t=mM_LMXexEFsJA1D5b_0Fb-7oDGgcBojkdtrdVOeNqxI">
 <h1 align="center">Hi 👋, I'm Saurabh Choudhary</h1>
 <h3 align="center">I am a frontend developer from India</h3>
-<img align="right" alt="Coding" width="500" src="gif-unscreen.gif">
+<img align="right" alt="Coding" width="400" src="gif-unscreen.gif">
 
-- 💬 Ask me about **react , Gsap and Tailwind**
+- 💬 Ask me about - **react , Gsap and Tailwind**
 
 - 📫 How to reach me **saurabhchoudhary@gmail.com**
 
