@@ -8,8 +8,8 @@
 - 📫 How to reach me **saurabhchoudhary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"><a href="www.youtube.com/@NamasteWorld-yt">www.youtube.com/@NamasteWorld-yt
+</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
