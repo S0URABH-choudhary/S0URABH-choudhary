@@ -8,7 +8,7 @@
 - 📫 How to reach me **saurabhchoudhary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="www.youtube.com/@NamasteWorld-yt"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></p>
+<p align="left"><a href="[www.youtube.com/@NamasteWorld-yt](https://youtube.com/@namasteworld-yt?si=4lgNgXBsoksCsrqi)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
