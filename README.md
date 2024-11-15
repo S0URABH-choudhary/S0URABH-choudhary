@@ -1,7 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<img height="300" object-fit="cover" width="100%" alt="img" src="https://media.licdn.com/dms/image/v2/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174916441?e=1736985600&v=beta&t=mM_LMXexEFsJA1D5b_0Fb-7oDGgcBojkdtrdVOeNqxI">
 <h1 align="center">Hi 👋, I'm Saurabh Choudhary</h1>
 <h3 align="center">I am a frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="right" alt="Coding" width="500" src="gif-unscreen.gif">
 
 - 💬 Ask me about **react , Gsap and Tailwind**
 
